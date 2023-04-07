@@ -6,7 +6,10 @@
   - [x] PATCH의 개인적으로 PIXEL 값을 계산해서 누끼(Pick-up)를 따기
   - [x] 누끼를 딴 부분(JPEG)과 SVS 파일을 Matching해서 Patch Size에 맞게 Dataset 생성
   - [x] 생성된 Dataset으로 Model 훈련 
-  
+ 
+ 
+ ![alt text](TumorZoom.gif)
+ 
   
 ### segmentation.ipynb
 해당 코드를 통해서 CLAM의 VISUALIZATION HEATMAP 결과 이미지를 Pick-up
