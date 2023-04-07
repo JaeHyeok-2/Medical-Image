@@ -32,10 +32,19 @@ learning_rate, epochs, labels, batch_size, model_save_path, pretrained
 **model_save_path** : ResNet18 훈련 후 가중치 저장 할 곳
 **pretrained** : Pretrained Model을 불러올 곳
 
+<!-- 첫번째 줄 -->
+<p align="center">
+  <img src="IMAGE/0.jpg" width="30%" />
+  <img src="IMAGE/1.jpg" width="30%" />
+  <img src="IMAGE/2.jpg" width="30%" />
+</p>
 
-
-
-
+<!-- 두번째 줄 -->
+<p align="center">
+  <img src="IMAGE/3.jpg" width="30%" />
+  <img src="IMAGE/4.jpg" width="30%" />
+  <img src="IMAGE/5.jpg" width="30%" />
+</p>
 ### `Reference`
 
 
