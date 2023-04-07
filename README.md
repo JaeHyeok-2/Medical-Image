@@ -39,7 +39,7 @@ learning_rate, epochs, labels, batch_size, model_save_path, pretrained
 
 <p align="center">
   <img src="IMAGE/tumor.png" width="50%" />
-  <img src="IMAGE/tumor_heatmap.png" width="50%" />
+  <img src="IMAGE/tumor_heatmap.jpg" width="50%" />
 </p>
 
 <!-- 첫번째 줄 -->
