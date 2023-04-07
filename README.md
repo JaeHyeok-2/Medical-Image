@@ -34,16 +34,16 @@ learning_rate, epochs, labels, batch_size, model_save_path, pretrained
 
 <!-- 첫번째 줄 -->
 <p align="center">
-  <img src="IMAGE/0.jpg" width="30%" />
-  <img src="IMAGE/1.jpg" width="30%" />
-  <img src="IMAGE/2.jpg" width="30%" />
+  <img src="IMAGE/0.png" width="30%" />
+  <img src="IMAGE/1.png" width="30%" />
+  <img src="IMAGE/2.png" width="30%" />
 </p>
 
 <!-- 두번째 줄 -->
 <p align="center">
-  <img src="IMAGE/3.jpg" width="30%" />
-  <img src="IMAGE/4.jpg" width="30%" />
-  <img src="IMAGE/5.jpg" width="30%" />
+  <img src="IMAGE/3.png" width="30%" />
+  <img src="IMAGE/4.png" width="30%" />
+  <img src="IMAGE/5.png" width="30%" />
 </p>
 ### `Reference`
 
