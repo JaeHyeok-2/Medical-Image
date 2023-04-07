@@ -32,6 +32,16 @@ learning_rate, epochs, labels, batch_size, model_save_path, pretrained
 **model_save_path** : ResNet18 훈련 후 가중치 저장 할 곳
 **pretrained** : Pretrained Model을 불러올 곳
 
+
+
+### `이미지 Mapping` 확인 ###
+아래의 이미지는 SVS level = 0 과 CLAM의 Heatmap Result에 해당하는 부분 맵핑
+
+<p align="center">
+  <img src="IMAGE/tumor.png" width="50%" />
+  <img src="IMAGE/tumor_heatmap.png" width="50%" />
+</p>
+
 <!-- 첫번째 줄 -->
 <p align="center">
   <img src="IMAGE/0.png" width="30%" />
