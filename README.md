@@ -28,7 +28,12 @@
 
 
 ## Our OUTPUT
-
+<p align="center">
+  <img src="_gitImage/NegativeResult.png" width="50%" />
+ ALK- Classification Result 
+  <img src="_gitImage/PositiveResult.png" width="50%" />
+ ALK+ Classification Result
+</p>
 
 # 
 ## Pre-requisites 
